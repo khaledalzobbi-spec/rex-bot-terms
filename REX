@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>REX Bot - Terms of Service</title>
+  <style>
+    body {
+      background: #10131c;
+      color: #f1f3f9;
+      font-family: Arial, sans-serif;
+      padding: 25px;
+      line-height: 1.8;
+    }
+    main {
+      max-width: 750px;
+      margin: 40px auto;
+      background: #1b2030;
+      padding: 28px;
+      border-radius: 16px;
+    }
+    h1, h2 { color: #70a5ff; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>REX Bot - Terms of Service</h1>
+  <p>Last Updated: November 13, 2026</p>
+
+  <h2>1. Acceptance</h2>
+  <p>By using REX Bot, you agree to these Terms of Service.</p>
+
+  <h2>2. Acceptable Use</h2>
+  <p>You must follow Discord's Terms of Service and Community Guidelines. You must not use the bot for illegal activities, spam, harassment, or abuse.</p>
+
+  <h2>3. Service Availability</h2>
+  <p>We may update, suspend, or discontinue bot features when necessary.</p>
+
+  <h2>4. Violations</h2>
+  <p>Access may be restricted if these terms are violated.</p>
+
+  <h2>5. Changes</h2>
+  <p>These terms may be updated from time to time. Continued use means acceptance of the updated terms.</p>
+
+  <h2>6. Contact</h2>
+  <p>For questions, contact the bot owner through the official support server.</p>
+</main>
+</body>
+</html>
